@@ -73,7 +73,7 @@ keensy.keymap = [
  [
    KC.NO,            KC.MUTE,    KC.VOLD,  KC.VOLU,  KC.MPLY,  KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.NO,
    KC.NO,            KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.NO,
-   KC.NO,            KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.NO,
+   KC.NO,            KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.HOME,
    KC.NO,            KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.NO,
    KC.NO,            ARFKEY,     KC.NO,    KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.NO,
    KC.NO,            KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,    KC.NO,    KC.NO,    KC.NO,      KC.NO,        KC.NO,          KC.NO,      KC.NO,
